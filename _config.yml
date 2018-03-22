@@ -23,6 +23,15 @@ twitter_username:
 
 #collections settings
 #collections_dir: collections # setting the collections_dir does not seem to work as advertised
+collections:
+    encoding:
+        output: true
+        excerpt: "stuff about encoding"
+        image:
+           global: true
+           name: "l24Wzpq.jpg"
+        
+
 
 defaults:
  - 
@@ -33,7 +42,6 @@ defaults:
     image:
       name: "l24Wzpq.jpg"
       global: true
-
 
 
 # Build settings
