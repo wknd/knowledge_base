@@ -47,8 +47,9 @@ defaults:
 # Build settings
 markdown: kramdown
 #theme: minima, removed gem-based theme, made it local
-plugins:
-  - jekyll-feed
+#no feed for subprojects
+#plugins:
+#  - jekyll-feed
 
 # stuff to make resources external
 layouts_dir: /site-resources/_layouts
