@@ -4,5 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: collectionindex
 title: encoding
+image: 
+    name: pcb-back-no-components.jpg
+    global: project
 ---
-
+stuff about encoding

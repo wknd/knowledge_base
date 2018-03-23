@@ -26,11 +26,6 @@ twitter_username:
 collections:
     encoding:
         output: true
-        excerpt: "stuff about encoding"
-        image:
-           global: true
-           name: "l24Wzpq.jpg"
-        
 
 
 defaults:
