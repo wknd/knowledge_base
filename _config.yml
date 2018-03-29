@@ -36,8 +36,8 @@ defaults:
     path: ""
   values:
     image:
-      name: "l24Wzpq.jpg"
-      global: true
+        name: pcb-back-no-components.jpg
+        global: project
 
 
 
