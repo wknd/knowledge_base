@@ -19,7 +19,7 @@ author: weekend
 
 baseurl: "/knowledge_base" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 
 background-image: "/assets/images/global/cross-street_francesco.lorenzetti.jpg"
 
@@ -31,14 +31,14 @@ collections:
 
 
 defaults:
- - 
+ -
   scope:
     path: ""
-    type: "posts"
   values:
     image:
       name: "l24Wzpq.jpg"
       global: true
+
 
 
 # Build settings
@@ -50,7 +50,7 @@ markdown: kramdown
 
 # stuff to make resources external
 layouts_dir: /site-resources/_layouts
-sass: 
+sass:
     sass_dir: /site-resources/_sass
 includes_dir: /site-resources/_includes
 data_dir: /site-resources/_data
