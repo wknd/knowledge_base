@@ -40,7 +40,10 @@ defaults:
         global: project
 
 
-
+logo:
+  location: /assets/logo.png
+  width: 426
+  height: 60
 # Build settings
 markdown: kramdown
 #theme: minima, removed gem-based theme, made it local
