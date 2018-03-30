@@ -44,6 +44,10 @@ logo:
   location: /assets/logo.png
   width: 426
   height: 60
+  
+on-tablet: 900
+on-laptop: 1380
+  
 # Build settings
 markdown: kramdown
 #theme: minima, removed gem-based theme, made it local
