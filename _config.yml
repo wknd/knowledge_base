@@ -36,7 +36,7 @@ defaults:
     path: ""
   values:
     image:
-        name: pcb-back-no-components.jpg
+        name: pcb-back
         global: project
 
 
