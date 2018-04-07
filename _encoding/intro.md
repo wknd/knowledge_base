@@ -10,7 +10,7 @@ math: true
 images:
   entropy:
     file: "entropy.png"
-    description: "graph of -plog2(p) over p shows which values of p contribute the most to entropy"
+    description: "graph of -plog<sub>2</sub>(p) over p shows which values of p contribute the most to entropy"
 
 
 ---
